@@ -1,0 +1,10 @@
+# Carpetas de respaldo de los repositorios anteriores
+git_exre_respaldo/
+git_programacion_respaldo/
+
+# Archivos y carpetas generados por Flutter/Dart
+**/.dart_tool/
+**/build/
+**/.idea/
+**/*.iml
+**/*.apk
